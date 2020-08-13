@@ -1,21 +1,26 @@
 {
-    "name": "verus",
-    "displayName": "Verus",
-    "description": "Custom color theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.38.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Verus",
-                "uiTheme": "vs",
-                "path": "./themes/Verus-color-theme.json"
-            }
-        ]
-    }
+  "name": "verus",
+  "publisher": "mercedesb",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mercedesb/verus.git"
+  },
+  "displayName": "Verus",
+  "description": "Custom color theme",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.38.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Verus",
+        "uiTheme": "vs",
+        "path": "./themes/Verus-color-theme.json"
+      }
+    ]
+  }
 }
