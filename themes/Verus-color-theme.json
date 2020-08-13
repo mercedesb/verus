@@ -318,7 +318,7 @@
       "name": "Keyword",
       "scope": "keyword",
       "settings": {
-        "foreground": "#6B8705",
+        "foreground": "#4a5e02",
         "fontStyle": "bold"
       }
     },
@@ -353,7 +353,7 @@
       "name": "Variable start",
       "scope": "punctuation.definition.variable",
       "settings": {
-        "foreground": "#6B8705"
+        "foreground": "#4a5e02"
       }
     },
     {
@@ -500,7 +500,7 @@
       "name": "Markup Quote",
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#6B8705"
+        "foreground": "#4a5e02"
       }
     },
     {
