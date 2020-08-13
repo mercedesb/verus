@@ -7,7 +7,7 @@
   },
   "displayName": "Verus",
   "description": "Custom color theme",
-  "version": "0.1.0",
+  "version": "0.1.6",
   "engines": {
     "vscode": "^1.38.0"
   },

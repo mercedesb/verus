@@ -283,7 +283,7 @@
       "scope": "comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#847E85"
+        "foreground": "#6D686E"
       }
     },
     {
@@ -297,14 +297,15 @@
       "name": "Regexp",
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#CC727B"
+        "foreground": "#B8424E"
       }
     },
     {
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#B2811E"
+        "fontStyle": "bold",
+        "foreground": "#89641A"
       }
     },
     {
@@ -363,21 +364,22 @@
         "punctuation.section.embedded.end"
       ],
       "settings": {
-        "foreground": "#CC727B"
+        "foreground": "#B8424E"
       }
     },
     {
       "name": "Built-in constant",
       "scope": ["constant.language", "meta.preprocessor"],
       "settings": {
-        "foreground": "#BF8B24"
+        "fontStyle": "bold",
+        "foreground": "#89641A"
       }
     },
     {
       "name": "Support.construct",
       "scope": ["support.function.construct", "keyword.other.new"],
       "settings": {
-        "foreground": "#CC727B"
+        "foreground": "#B8424E"
       }
     },
     {
@@ -411,14 +413,14 @@
         "punctuation.definition.tag.end"
       ],
       "settings": {
-        "foreground": "#93A1A1"
+        "foreground": "#6D686E"
       }
     },
     {
       "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#93A1A1"
+        "foreground": "#6D686E"
       }
     },
     {
@@ -432,7 +434,7 @@
       "name": "Continuation",
       "scope": "punctuation.separator.continuation",
       "settings": {
-        "foreground": "#CC727B"
+        "foreground": "#B8424E"
       }
     },
     {
@@ -507,14 +509,16 @@
       "name": "Markup Lists",
       "scope": "markup.list",
       "settings": {
-        "foreground": "#BF8B24"
+        "fontStyle": "bold",
+        "foreground": "#89641A"
       }
     },
     {
       "name": "Markup Styling",
       "scope": ["markup.bold", "markup.italic"],
       "settings": {
-        "foreground": "#BF8B24"
+        "fontStyle": "bold",
+        "foreground": "#89641A"
       }
     },
     {
